@@ -1,0 +1,55 @@
+#textoIngresaenvio h1{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+}
+
+#textoSubIngresaenvio i{
+
+    position: relative;
+    font-size: 1.8rem;
+    right: 20px;
+    top: 5px;
+    color: #FFCC00;
+
+}
+#textoSubIngresaenvio{
+
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    position: relative;
+    top: 20px;
+    left: 130px;
+    
+}
+
+.boton-confirmar {
+    font-family: 'Raleway', sans-serif;
+    text-decoration: none;
+    padding: 15px 70px;
+    font-size: 1.6rem;
+    font-weight: 600;
+    position: relative;
+    margin: 32px;
+    background-color: #009D4E;
+    color: rgb(255, 255, 255);
+    border-radius: 50px;
+    border: none;
+    outline: none;
+    top: 50px;
+}
+
+
+.boton-cancelar {
+    font-family: 'Raleway', sans-serif;
+    text-decoration: none;
+    padding: 15px 70px;
+    font-size: 1.6rem;
+    font-weight: 600;
+    position: relative;
+    margin: 32px;
+    border-radius: 50px;
+    border-width: 4px;
+    border-color: #616262;
+    color: #616262;
+    top: 50px;
+}

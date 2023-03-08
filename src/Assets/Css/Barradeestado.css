@@ -1,0 +1,72 @@
+*,*::before, *::after{
+    box-sizing: border-box;
+}
+#IMGescaneaTuencomienda{
+    width: 20rem;
+    position: relative;
+    top: -50px;
+    left: 50px;
+}
+
+.container-barraestado h1{
+    position: relative;
+    top: -60px;
+}
+
+
+.imgSvg{
+    color: #009D4E;
+}
+
+.loading{
+    width: 100%;
+    height: 2.4rem;
+    background-color: #009D4E;
+    position: relative;
+    top: -45px;
+    right: -5px;
+    border-radius: 1.5rem;
+}
+.loading::before{
+    display: flex;
+    align-items: center;
+    position: relative;
+    left: 0.2em;
+    top: 0.2em;
+    bottom: .5em;
+    width: calc(var(--width, 0) *1%);
+    min-width: 2rem;
+    max-width: calc(100% - 1em);
+    background-color: #B6F0AC;
+    border-radius: 1em;
+    padding: 1em;
+}
+
+.loading .line-box .line{
+
+    border-radius: 20px;
+    background: #B6F0AC;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    animation: loading 5s linear forwards;
+}
+
+@keyframes loading {
+
+    0%{
+        left: 0%;
+        width: 0%;
+    }
+    100%{
+        left: 0%;
+        width: 100%;
+    }
+
+    
+}
+
+#imagenIcono{
+    color: #009D4E;
+}

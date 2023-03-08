@@ -1,0 +1,40 @@
+#textoCodigonocorresponde h1{
+    font-weight: 500;
+}
+#textoCodigonocorresponde{
+    position: relative;
+    top: 70px;
+    font-family: 'Raleway'
+}
+
+
+#textoSubCodigonocorresponde{
+    position: relative;
+    color: #C02B2D;
+    top: 60px;
+    font-family: 'Raleway'
+    
+}
+
+#IconoAlerta{
+    font-size: 75px;
+    position: relative;
+    top: 70px;
+    color: #C02B2D;
+}
+
+.boton-Aceptar6{
+    font-family: 'Raleway', sans-serif;
+    text-decoration: none;
+    padding: 15px 70px;
+    font-size: 1.6rem;
+    font-weight: 600;
+    position: relative;
+    margin: 32px;
+    background-color: #616262;
+    color: rgb(255, 255, 255);
+    border-radius: 50px;
+    border: none;
+    outline: none;
+    top: 100px;
+}

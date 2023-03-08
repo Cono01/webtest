@@ -1,0 +1,53 @@
+#textoNopago h1{
+    font-weight: 500;
+}
+#textoNopago{
+    position: relative;
+    top: 15px;
+    font-family: 'Raleway'
+}
+#IconoAlerta{
+    font-size: 75px;
+    position: relative;
+    top: 30px;
+    color: #C02B2D;
+}
+#textoAlerta h1{
+    font-weight: 500;
+}
+
+
+#textoDimensionesMax{
+    position: relative;
+    top: 30px;
+    font-family: 'Raleway'
+    
+}
+#textoSubdimensionesMax{
+
+    color: #C02B2D;
+    font-weight: 600;
+    font-size: 5vh;
+}
+#textoSubdimensionesMax{
+
+    font-family: 'Raleway'
+    
+      
+}
+
+.boton-Aceptar4{
+    font-family: 'Raleway', sans-serif;
+    text-decoration: none;
+    padding: 15px 70px;
+    font-size: 1.6rem;
+    font-weight: 600;
+    position: relative;
+    margin: 32px;
+    background-color: #616262;
+    color: rgb(255, 255, 255);
+    border-radius: 50px;
+    border: none;
+    outline: none;
+    top: 10px;
+}

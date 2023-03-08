@@ -1,0 +1,13 @@
+#IMGTitulo {
+    position: relative;
+    top: 70px;
+}
+
+#textoEnviar{
+    position: relative;
+    top: 50px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    font-size: 36px;
+    color: #009D4E;
+}
